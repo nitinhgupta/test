@@ -1,2 +1,2 @@
-FROM ubuntu
-RUN apt-get update -y
+FROM hello-world
+RUN echo "hi"
