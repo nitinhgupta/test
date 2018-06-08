@@ -1,2 +1,2 @@
-FROM centos
-RUN yum install -y wget
+FROM ubuntu
+RUN apt-get update -y
